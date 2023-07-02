@@ -41,10 +41,10 @@ Finally code reduction failed, but ok it's time to share.
 > Note: This was my second plugin i wrote for lotro and i learned so much - Thanks Thurallor.
 
 
-![Settngs](./bilder/screenshot1.jpg)
+![Settngs](./bilder/screenshot1.JPG)
 
 
-![Mouse Finder](./bilder/screenshot2.jpg)
+![Mouse Finder](./bilder/screenshot2.JPG)
 
 ## TODO
 - upload to lotrointerface (find my account data ... hmm)
