@@ -46,5 +46,6 @@ Finally code reduction failed, but ok it's time to share.
 
 ![Mouse Finder](./bilder/screenshot2.JPG)
 
-## TODO
-- upload to lotrointerface (find my account data ... hmm)
+## Lotrointerface
+
+https://www.lotrointerface.com/downloads/info1220-MouseFinderX.html
