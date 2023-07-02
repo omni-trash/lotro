@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Plugin>
+    <Information>
+        <Name>Mouse Finder (modified)</Name>
+        <Author>Thurallor, Pocket2</Author>
+        <Version>1.23.7.2</Version>
+        <Image>Thurallor/MouseFinderX/assets/icon.jpg</Image>
+        <Description>When in combat, this plugin draws a big circle around your cursor so you can find it easily.</Description>
+    </Information>
+    <Package>Thurallor.MouseFinderX</Package>
+    <Configuration Apartment="MouseFinderX" />
+</Plugin>
